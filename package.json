@@ -1,0 +1,19 @@
+{
+  "name": "orange-loan-app",
+  "version": "1.0.0",
+  "description": "Orange Money Loan Application - Static Site with Telegram Bot Integration",
+  "type": "module",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build needed'",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "orange-money",
+    "loan",
+    "botswana",
+    "telegram-bot"
+  ],
+  "author": "",
+  "license": "MIT"
+}
